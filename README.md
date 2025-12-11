@@ -1,6 +1,8 @@
 # Compara-planilhas
 Comparar mais de uma coluna entre uma planilha e outra
 
+<img width="1350" height="1022" alt="image" src="https://github.com/user-attachments/assets/342abc0e-6058-4e04-9743-06c4f24cd5d4" />
+
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
